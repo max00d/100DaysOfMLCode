@@ -1,6 +1,6 @@
 # 100 Days Of ML Code Challenge
 
-The idea is to spend at least 1 hour coding ML for the next 100 days.  
+The idea is to spend at least 1 hour coding ML for the next 100 days see https://www.youtube.com/watch?v=cuQMBj1cWPo #100DaysOfMLCode  
 The focus here will be on applications of ML and DL using python but I will probably also through in some 
 pine script learnings too here and there.
 
